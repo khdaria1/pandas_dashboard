@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+plotly
+matplotlib
+openpyxl
+duckdb # for DashApp4
